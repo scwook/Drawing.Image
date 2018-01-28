@@ -29,7 +29,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="79.774596"
+     inkscape:cx="-92.456413"
      inkscape:cy="329.77709"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,31 +57,28 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-117)">
-    <g
-       id="g7884">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7769-2"
-         d="M 90.379679,207.69934 V 296"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         transform="rotate(-90)"
-         ry="0"
-         rx="3.257004"
-         y="73.128349"
-         x="-173.0443"
-         height="30.743303"
-         width="55.044292"
-         id="rect3937-2-1-8-7"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.78999352;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         ry="2.384526"
-         y="128.31326"
-         x="60.745548"
-         height="80.697243"
-         width="55.508907"
-         id="rect7863"
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 90.379679,207.69934 V 296"
+       id="path7769-2"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.78999352;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3937-2-1-8-7"
+       width="55.044292"
+       height="30.743303"
+       x="-173.0443"
+       y="73.128349"
+       rx="3.257004"
+       ry="0"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7863"
+       width="55.508907"
+       height="80.697243"
+       x="60.745548"
+       y="128.31326"
+       ry="2.384526" />
   </g>
 </svg>

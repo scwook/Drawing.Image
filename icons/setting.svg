@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="180"
-   height="180"
+   width="60"
+   height="60"
    id="svg3776"
    version="1.1"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="setting.svg"
-   inkscape:export-filename="/home/ctrluser/Pictures/iEPICS-icons/setting_black_180x180.png"
+   inkscape:export-filename="/home/ctrluser/Pictures/iEPICS-icons/setting_black_60x60.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -67,7 +67,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-942.5196)"
+     transform="translate(0,-1062.5196)"
      style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:10.66666698;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -89,7 +89,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="white"
-     transform="translate(0,51.999997)"
+     transform="translate(0,-68.000003)"
      style="display:none">
     <ellipse
        style="fill:none;stroke:#ffffff;stroke-width:0.73927647;stroke-opacity:1"
@@ -122,21 +122,18 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="black"
-     transform="translate(0,103.2)">
-    <g
-       id="g7228">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3757-9"
-         d="m 80.307967,-99.949678 -8.016908,24.050591 c -4.964735,1.398579 -9.592197,3.512034 -13.999556,5.982711 L 35.437437,-81.283553 21.916455,-67.762569 33.283651,-44.90851 c -2.470698,4.407359 -4.584134,9.034816 -5.982722,13.999588 L 3.2503219,-22.892045 V -3.5079907 L 27.300929,4.5089205 c 1.398588,4.9647388 3.512024,9.5922315 5.982722,13.9995485 L 21.916455,41.362532 35.437437,54.883552 58.291503,43.516301 c 4.407359,2.470715 9.034821,4.584202 13.999556,5.98271 l 8.016908,24.050667 h 19.384026 l 8.016877,-24.050667 c 4.96478,-1.398508 9.59224,-3.511995 13.99959,-5.98271 l 22.8541,11.367251 13.52094,-13.52102 -11.36716,-22.854063 c 2.47071,-4.407317 4.58414,-9.0348097 5.98269,-13.9995485 l 24.05065,-8.0169112 V -22.892045 l -24.05065,-8.016877 c -1.39855,-4.964772 -3.51198,-9.592229 -5.98269,-13.999588 l 11.36716,-22.854059 -13.52094,-13.520984 -22.8541,11.367177 c -4.40735,-2.470677 -9.03481,-4.584132 -13.99959,-5.982711 l -8.016877,-24.050591 z"
-         style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <ellipse
-         ry="28.156393"
-         rx="28.156414"
-         cy="-13.200069"
-         cx="90.000046"
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path3781-2" />
-    </g>
+     transform="translate(0,-16.8)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.49933755;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 26.843754,18.549669 -2.610734,7.83216 c -1.616782,0.455452 -3.123731,1.143705 -4.559003,1.94829 l -7.442504,-3.70176 -4.4031544,4.403155 3.7017674,7.442502 c -0.804592,1.435272 -1.49284,2.94222 -1.9482951,4.559014 l -7.8321621,2.610723 v 6.312485 l 7.8321621,2.610734 c 0.4554551,1.616784 1.1437031,3.123742 1.9482951,4.559001 l -3.7017674,7.442504 4.4031544,4.403166 7.442504,-3.701784 c 1.435272,0.804596 2.942221,1.492861 4.559003,1.94829 l 2.610734,7.832183 h 6.312476 l 2.610722,-7.832183 c 1.616801,-0.455429 3.123748,-1.143694 4.559016,-1.94829 l 7.442515,3.701784 4.403144,-4.403166 -3.701757,-7.442504 c 0.804597,-1.435259 1.49284,-2.942217 1.948283,-4.559001 l 7.832179,-2.610734 V 43.643753 L 50.418153,41.03303 C 49.96271,39.416236 49.274467,37.909288 48.46987,36.474016 l 3.701757,-7.442502 -4.403144,-4.403155 -7.442515,3.70176 C 38.8907,27.525534 37.383753,26.837281 35.766952,26.381829 l -2.610722,-7.83216 z"
+       id="path3757-9"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       id="path3781-2"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.46544039;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="30.000013"
+       cy="46.799976"
+       rx="9.1692314"
+       ry="9.1692257" />
   </g>
 </svg>

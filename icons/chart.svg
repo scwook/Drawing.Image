@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="180"
-   height="180"
+   width="120"
+   height="120"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
@@ -69,7 +69,7 @@
      inkscape:label="chart1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-942.5197)"
+     transform="translate(0,-1002.5197)"
      style="display:none">
     <path
        style="fill:none;stroke:#00ffff;stroke-width:7.24651575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -82,7 +82,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="white"
-     transform="translate(0,94.666676)"
+     transform="translate(0,34.666676)"
      style="display:none">
     <ellipse
        style="fill:none;stroke:#ffffff;stroke-width:3.26613426;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -101,18 +101,18 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="black"
-     transform="translate(0,-50.39999)">
+     transform="translate(0,-110.39999)">
     <g
-       id="g6567"
-       transform="translate(0,-4.9874447)">
+       id="g5658"
+       transform="matrix(0.66292135,0,0,0.66292135,0.33707912,75.932581)">
       <path
          inkscape:connector-curvature="0"
          id="path3761-3"
-         d="M 1.0000014,162.69658 H 23.249998 l 22.249994,-26.7209 22.250035,53.44186 22.249995,-106.883729 22.249998,133.604619 22.24999,-106.88359 13.35003,53.44174 H 179"
+         d="M 1.0000014,157.70914 H 23.249998 L 45.499992,130.98824 67.750027,184.4301 90.000022,77.546366 112.25002,211.15099 134.50001,104.2674 147.85004,157.70914 H 179"
          style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="12"
-         cy="85.538185"
+         cy="80.550743"
          cx="89.204124"
          id="path6720"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.54571569;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0" />
