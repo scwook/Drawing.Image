@@ -9,36 +9,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
+   width="144"
+   height="144"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="clock.svg"
-   inkscape:export-filename="/home/scwook/Pictures/iEPICS/clock48x48.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/clock_black_144x144.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     pagecolor="#c8c8c8"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="18.433296"
-     inkscape:cy="17.994756"
+     inkscape:zoom="4"
+     inkscape:cx="121.76786"
+     inkscape:cy="44.832825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1178"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -63,31 +64,31 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1004.3622)">
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#ffffff;stroke-width:8.83333302;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path2990"
-       sodipodi:cx="55"
-       sodipodi:cy="60"
-       sodipodi:rx="50"
-       sodipodi:ry="50"
-       d="M 105,60 A 50,50 0 1 1 5,60 50,50 0 1 1 105,60 z"
-       transform="matrix(0.42266457,0,0,0.42266508,0.75343002,1003.0023)" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#646464;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3763"
-       width="3.8983054"
-       height="15.593237"
-       x="22.050827"
-       y="1012.7687" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#646464;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3763-1"
-       width="15.59323"
-       height="3.8983076"
-       x="742.75073"
-       y="707.66907"
-       transform="matrix(0.7071064,0.70710717,-0.7071064,0.70710717,0,0)" />
+     transform="translate(0,-908.3622)">
+    <g
+       id="g4611"
+       transform="matrix(1.5,0,0,1.5,-2.2888184e-5,-526.18089)"
+       style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">
+      <ellipse
+         ry="44.499935"
+         rx="44.499985"
+         id="path2990"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="48"
+         cy="1004.3621" />
+      <path
+         inkscape:transform-center-y="-6.5628348"
+         inkscape:connector-curvature="0"
+         id="path4541"
+         d="M 46.420931,1002.6189 V 974.60995"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:transform-center-x="-4.640625"
+         inkscape:transform-center-y="4.6406152"
+         inkscape:connector-curvature="0"
+         id="path4541-7"
+         d="m 46.4285,1002.6183 19.805513,19.8058"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
