@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="144"
-   height="144"
+   width="48"
+   height="48"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
@@ -64,16 +64,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-908.3622)">
+     transform="translate(0,-1004.3622)">
     <g
        id="g4611"
-       transform="matrix(1.4494401,0,0,1.4494269,2.4268752,-475.38728)"
-       style="stroke-width:6.20932245;stroke-miterlimit:4;stroke-dasharray:none">
+       transform="matrix(1.452632,0,0,1.452632,2.273664,-478.60636)"
+       style="stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none">
       <ellipse
          ry="44.499935"
          rx="44.499985"
          id="path2990"
-         style="fill:none;stroke:#000000;stroke-width:6.20932245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          cx="48"
          cy="1004.3621" />
       <path
@@ -81,14 +81,14 @@
          inkscape:connector-curvature="0"
          id="path4541"
          d="M 46.420931,1002.6189 V 974.60995"
-         style="fill:none;stroke:#000000;stroke-width:6.20932245;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          inkscape:transform-center-x="-4.640625"
          inkscape:transform-center-y="4.6406152"
          inkscape:connector-curvature="0"
          id="path4541-7"
          d="m 46.4285,1002.6183 19.805513,19.8058"
-         style="fill:none;stroke:#000000;stroke-width:6.20932245;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
