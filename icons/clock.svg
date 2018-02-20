@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="144"
-   height="144"
+   width="32"
+   height="32"
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="clock.svg"
-   inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/clock_black_144x144.png"
+   inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/clock_black_32x32.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="121.76786"
-     inkscape:cy="44.832825"
+     inkscape:zoom="8"
+     inkscape:cx="5.5650399"
+     inkscape:cy="22.265257"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -64,31 +64,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-908.3622)">
+     transform="translate(0,-1020.3622)">
     <g
-       id="g4611"
-       transform="matrix(1.4494401,0,0,1.4494269,2.4268752,-475.38728)"
-       style="stroke-width:6.20932245;stroke-miterlimit:4;stroke-dasharray:none">
-      <ellipse
-         ry="44.499935"
-         rx="44.499985"
+       id="g5228"
+       transform="matrix(2,0,0,2,0.09292318,-1052.4552)">
+      <circle
+         r="6.5002203"
          id="path2990"
-         style="fill:none;stroke:#000000;stroke-width:6.20932245;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         cx="48"
-         cy="1004.3621" />
+         style="fill:none;stroke:#000000;stroke-width:0.99955958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="7.9535384"
+         cy="1044.4087" />
       <path
-         inkscape:transform-center-y="-6.5628348"
+         inkscape:transform-center-y="-6.5193824"
          inkscape:connector-curvature="0"
          id="path4541"
-         d="M 46.420931,1002.6189 V 974.60995"
-         style="fill:none;stroke:#000000;stroke-width:6.20932245;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 7.7228801,1044.1542 v -4.0913"
+         style="fill:none;stroke:#000000;stroke-width:0.99955958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         inkscape:transform-center-x="-4.640625"
-         inkscape:transform-center-y="4.6406152"
+         inkscape:transform-center-x="-4.610017"
+         inkscape:transform-center-y="4.609899"
          inkscape:connector-curvature="0"
          id="path4541-7"
-         d="m 46.4285,1002.6183 19.805513,19.8058"
-         style="fill:none;stroke:#000000;stroke-width:6.20932245;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 7.7239855,1044.1541 2.8930385,2.893"
+         style="fill:none;stroke:#000000;stroke-width:0.99955958;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
