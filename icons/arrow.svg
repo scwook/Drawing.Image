@@ -16,7 +16,7 @@
    id="svg8"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="arrow.svg"
-   inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/4inch/arrow_green_204x204.png"
+   inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/4inch/circle_black_204x204.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -55,13 +55,13 @@
      inkscape:cx="-34.117358"
      inkscape:cy="79.212475"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      showguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1020"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      units="px"
      inkscape:showpageshadow="false">
@@ -85,8 +85,8 @@
      inkscape:label="Arrow"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-243.02496)"
-     style="display:inline">
+     transform="translate(0,-243.02494)"
+     style="display:none">
     <path
        style="display:inline;fill:#009600;fill-opacity:1;stroke:none;stroke-width:0.2559104px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 45.076979,296.13715 c -0.615108,1.53678 -36.2236186,-23.05116 -36.2236186,-26.12466 0,-3.07347 35.6085106,-27.66147 36.2236186,-26.12472 0.615093,1.53678 -5.326992,24.58797 -5.326992,26.12472 0,1.53672 5.942103,24.58797 5.326992,26.12466 z"
@@ -101,14 +101,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Circle"
-     style="display:none"
-     transform="translate(0,-243.02496)">
-    <circle
-       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32883933px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     style="display:inline"
+     transform="translate(0,-243.02494)">
+    <ellipse
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37419641px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4634-6-9"
-       cx="-273.1875"
-       cy="23.8125"
+       cx="-270.01245"
+       cy="26.987499"
        transform="rotate(-90)"
-       r="23.018751" />
+       rx="26.193748"
+       ry="26.19375" />
   </g>
 </svg>
