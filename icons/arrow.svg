@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="180"
-   height="180"
-   viewBox="0 0 47.625 47.625003"
+   width="204"
+   height="204"
+   viewBox="0 0 53.975001 53.975004"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="arrow.svg"
-   inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/arrow_green_180x180.png"
+   inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/4inch/arrow_green_204x204.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="18.431521"
-     inkscape:cy="91.604778"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-34.117358"
+     inkscape:cy="79.212475"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -85,21 +85,24 @@
      inkscape:label="Arrow"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-249.37499)"
+     transform="translate(0,-243.02496)"
      style="display:inline">
     <path
-       style="display:inline;fill:#009600;fill-opacity:1;stroke:none;stroke-width:0.27028504px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 46.774557,296.14554 c -0.780798,1.35048 -45.98080566,-20.25708 -45.98080566,-22.95807 0,-2.70093 45.20000766,-24.30852 45.98080566,-22.95804 0.780774,1.35051 -6.761871,21.60759 -6.761871,22.95804 0,1.35051 7.542672,21.60762 6.761871,22.95807 z"
+       style="display:inline;fill:#009600;fill-opacity:1;stroke:none;stroke-width:0.2559104px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.076979,296.13715 c -0.615108,1.53678 -36.2236186,-23.05116 -36.2236186,-26.12466 0,-3.07347 35.6085106,-27.66147 36.2236186,-26.12472 0.615093,1.53678 -5.326992,24.58797 -5.326992,26.12472 0,1.53672 5.942103,24.58797 5.326992,26.12466 z"
        id="path4617-9-3"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="zzzzz" />
+       sodipodi:nodetypes="zzzzz"
+       inkscape:export-filename="/home/scwook/git/Drawing.Image/icons/export/4inch/arrow_green_68x68.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Circle"
      style="display:none"
-     transform="translate(0,-249.37499)">
+     transform="translate(0,-243.02496)">
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32883933px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4634-6-9"
