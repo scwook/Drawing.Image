@@ -52,16 +52,16 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="117.04359"
+     inkscape:cx="28.54359"
      inkscape:cy="115.36602"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="true"
      showguides="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
-     inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:showpageshadow="false">
@@ -86,8 +86,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-243.02491)"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29102254px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 0.87223158,287.02723 c -1.74633,-0.70002 26.19450042,-41.22417 29.68710042,-41.22417 3.4926,0 31.43349,40.52415 29.68719,41.22417 -1.74636,0.69999 -27.94086,-6.06237 -29.68719,-6.06237 -1.74627,0 -27.9408604,6.76236 -29.68710042,6.06237 z"
@@ -117,7 +116,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Limit"
-     transform="translate(0,-7.1437493)">
+     transform="translate(0,-7.1437493)"
+     style="display:none">
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32289982;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4634-6-9-3-6"
