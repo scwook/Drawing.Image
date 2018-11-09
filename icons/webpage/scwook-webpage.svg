@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.52445331"
-     inkscape:cx="1152.0654"
-     inkscape:cy="1343.0457"
+     inkscape:cx="820.88667"
+     inkscape:cy="902.769"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -47,7 +47,7 @@
      showguides="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="31"
      inkscape:window-maximized="1">
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,12 +110,12 @@
      inkscape:label="background2"
      style="display:inline">
     <rect
-       style="display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.56437445;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.56496316;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4784"
-       width="270.36896"
+       width="270.93332"
        height="86.742531"
        x="0"
-       y="163.424" />
+       y="142.23526" />
     <rect
        y="507.50385"
        x="0"
@@ -151,6 +151,13 @@
      id="layer3"
      inkscape:label="main"
      style="display:inline">
+    <rect
+       style="fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:1.00224173;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4789"
+       width="91.817833"
+       height="10.089871"
+       x="0"
+       y="250.1817" />
     <g
        id="g954"
        transform="translate(-3.2036602,-36.828032)">
@@ -184,54 +191,54 @@
     </g>
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -144.52727,167.82143 V 344.71427"
+       d="M 59.26894,288.15673 V 465.04957"
        id="path986"
        inkscape:connector-curvature="0" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.16910273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path988"
-       cx="-144.54066"
-       cy="168.16351"
+       cx="59.255543"
+       cy="288.49881"
        r="2.5612819" />
     <circle
        r="2.5612819"
-       cy="199.91354"
-       cx="-144.54066"
+       cy="320.24884"
+       cx="59.255543"
        id="circle990"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.16910273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.16910273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle992"
-       cx="-144.54066"
-       cy="231.66357"
+       cx="59.255543"
+       cy="351.99887"
        r="2.5612819" />
     <circle
        r="2.5612819"
-       cy="263.41357"
-       cx="-144.54066"
+       cy="383.74887"
+       cx="59.255543"
        id="circle994"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.16910273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.16910273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle996"
-       cx="-144.54066"
-       cy="289.87186"
+       cx="59.255543"
+       cy="410.20715"
        r="2.5612819" />
     <circle
        r="2.5612819"
-       cy="316.33014"
-       cx="-144.54066"
+       cy="436.66544"
+       cx="59.255543"
        id="circle998"
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.16910273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.16910273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle1000"
-       cx="-144.54066"
-       cy="342.78842"
+       cx="59.255543"
+       cy="463.12372"
        r="2.5612819" />
     <path
        style="fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:7.42521095;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 120.60107,99.045073 c 0,1.939537 -1.57231,2.213427 -3.51186,2.213427 -1.93954,0 -3.51185,-0.27389 -3.51185,-2.213427 0,-1.939541 1.57231,-3.511849 3.51185,-3.511847 1.93955,-2e-6 3.51186,1.572306 3.51186,3.511847 z"
+       d="m 120.60107,77.856342 c 0,1.939537 -1.57231,2.213427 -3.51186,2.213427 -1.93954,0 -3.51185,-0.27389 -3.51185,-2.213427 0,-1.939541 1.57231,-3.511849 3.51185,-3.511847 1.93955,-2e-6 3.51186,1.572306 3.51186,3.511847 z"
        id="path983"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="scscs" />
@@ -252,18 +259,18 @@
        width="28.289722"
        height="1.4012371"
        x="124.83846"
-       y="64.050262"
+       y="42.86153"
        rx="0.70061857"
        ry="0.70061857" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.4329133;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 146.63333,100.54204 4.55444,-32.042046 h -12.26071 -12.26072 l 4.66716,32.042046 z"
+       d="m 146.63333,79.353309 4.55444,-32.042046 h -12.26071 -12.26072 l 4.66716,32.042046 z"
        id="rect961"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.64506412;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 127.18848,62.252203 23.58969,-1.461786 c 0.5814,-0.03601 1.05153,2.256764 1.05153,2.770229 v 0.366127 c 0,0.513465 -0.46898,0.926839 -1.05153,0.926839 h -23.58969 c -0.58254,0 -1.05153,-0.413374 -1.05153,-0.926839 v -0.366127 c 0,-0.513465 0.47009,-1.272406 1.05153,-1.308443 z"
+       d="m 127.18848,41.063472 23.58969,-1.461786 c 0.5814,-0.03601 1.05153,2.256764 1.05153,2.770229 v 0.366127 c 0,0.513465 -0.46898,0.926839 -1.05153,0.926839 h -23.58969 c -0.58254,0 -1.05153,-0.413374 -1.05153,-0.926839 v -0.366127 c 0,-0.513465 0.47009,-1.272406 1.05153,-1.308443 z"
        id="rect967"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
@@ -271,53 +278,53 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:54.0015564px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.35003889"
        x="109.25414"
-       y="100.49383"
+       y="79.305099"
        id="text4636"><tspan
          sodipodi:role="line"
          id="tspan4634"
          x="109.25414"
-         y="100.49383"
+         y="79.305099"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.35003889">6</tspan></text>
     <text
        id="text4650"
-       y="100.49383"
+       y="79.305099"
        x="199.30626"
        style="font-style:normal;font-weight:normal;font-size:54.0015564px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.35003889"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.35003889"
-         y="100.49383"
+         y="79.305099"
          x="199.30626"
          id="tspan4648"
          sodipodi:role="line">9</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 103.67343,62.131724 63.69232,30.01737 -0.25225,6.936785 -63.81844,-30.017368 v -7.062909"
+       d="m 103.67343,40.942993 63.69232,30.01737 -0.25225,6.936785 -63.81844,-30.017368 v -7.062909"
        id="path4693"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.54952335px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11373809"
        x="135.58774"
-       y="129.84026"
+       y="108.65153"
        id="text4717"><tspan
          sodipodi:role="line"
          id="tspan4715"
          x="135.58774"
-         y="129.84026"
+         y="108.65153"
          style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.11373809">Recent particle accelerators becomes much advanced</tspan><tspan
          sodipodi:role="line"
          x="135.58774"
-         y="135.52716"
+         y="114.33843"
          style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.11373809"
          id="tspan4719">and it tend to require well-arranged operational tools. One</tspan><tspan
          sodipodi:role="line"
          x="135.58774"
-         y="141.21407"
+         y="120.02534"
          style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.11373809"
          id="tspan4721">of the major parts of such preparations is the control system.</tspan><tspan
          sodipodi:role="line"
          x="135.58774"
-         y="146.90097"
+         y="125.71224"
          style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.11373809"
          id="tspan4729" /></text>
     <path
@@ -463,7 +470,7 @@
        transform="rotate(-90)" />
     <g
        id="g6410"
-       transform="translate(-27.20117,-51.710593)">
+       transform="translate(-27.20117,-72.899324)">
       <path
          inkscape:connector-curvature="0"
          id="path3757"
@@ -479,7 +486,7 @@
     </g>
     <g
        id="g6403"
-       transform="translate(-27.20117,-51.710593)">
+       transform="translate(-27.20117,-72.899324)">
       <rect
          y="244.45702"
          x="91.984268"
@@ -502,7 +509,7 @@
     </g>
     <g
        id="g6406"
-       transform="translate(-22.680871,-51.710593)">
+       transform="translate(-22.680871,-72.899324)">
       <path
          inkscape:connector-curvature="0"
          id="path3761"
@@ -523,124 +530,124 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="69.201752"
-       y="213.47433"
+       y="192.2856"
        id="text6505"><tspan
          sodipodi:role="line"
          x="69.763306"
-         y="213.47433"
+         y="192.2856"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6519">EPICS is developed as a </tspan><tspan
          sodipodi:role="line"
          x="69.201752"
-         y="217.88406"
+         y="196.69533"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6527">publicopen source project.</tspan><tspan
          sodipodi:role="line"
          x="69.763306"
-         y="222.29378"
+         y="201.10504"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6529">The source code is freely </tspan><tspan
          sodipodi:role="line"
          x="69.763306"
-         y="226.70351"
+         y="205.51477"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6533">available according to the </tspan><tspan
          sodipodi:role="line"
          x="69.201752"
-         y="231.11322"
+         y="209.92448"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6523">EPICS Open License.</tspan></text>
     <text
        id="text6545"
-       y="213.47433"
+       y="192.2856"
        x="135.01859"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan6535"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-         y="213.47433"
+         y="192.2856"
          x="135.58014"
          sodipodi:role="line">EPICS is developed as a </tspan><tspan
          id="tspan6537"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-         y="217.88406"
+         y="196.69533"
          x="135.01859"
          sodipodi:role="line">publicopen source project.</tspan><tspan
          id="tspan6539"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-         y="222.29378"
+         y="201.10504"
          x="135.58014"
          sodipodi:role="line">The source code is freely </tspan><tspan
          id="tspan6541"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-         y="226.70351"
+         y="205.51477"
          x="135.58014"
          sodipodi:role="line">available according to the </tspan><tspan
          id="tspan6543"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-         y="231.11322"
+         y="209.92448"
          x="135.01859"
          sodipodi:role="line">EPICS Open License.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="202.44072"
-       y="213.47433"
+       y="192.2856"
        id="text6557"><tspan
          sodipodi:role="line"
          x="203.00227"
-         y="213.47433"
+         y="192.2856"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6547">EPICS is developed as a </tspan><tspan
          sodipodi:role="line"
          x="202.44072"
-         y="217.88406"
+         y="196.69533"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6549">publicopen source project.</tspan><tspan
          sodipodi:role="line"
          x="203.00227"
-         y="222.29378"
+         y="201.10504"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6551">The source code is freely </tspan><tspan
          sodipodi:role="line"
          x="203.00227"
-         y="226.70351"
+         y="205.51477"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6553">available according to the </tspan><tspan
          sodipodi:role="line"
          x="202.44072"
-         y="231.11322"
+         y="209.92448"
          style="font-size:3.52777767px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
          id="tspan6555">EPICS Open License.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path6559"
-       d="m 102.1701,186.36156 v 51.52619"
+       d="m 102.1701,165.17283 v 51.52619"
        style="fill:none;stroke:#ffffff;stroke-width:0.28559551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.28559551;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 170.02449,186.36156 v 51.52619"
+       d="m 170.02449,165.17283 v 51.52619"
        id="path6561"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="73.90831"
-       y="180.56161"
+       y="159.37288"
        id="text6565"><tspan
          sodipodi:role="line"
          id="tspan6563"
          x="73.90831"
-         y="180.56161"
+         y="159.37288"
          style="font-size:6.3499999px;fill:#ffffff;stroke-width:0.26458332">Work</tspan></text>
     <text
        id="text6569"
-       y="180.56161"
+       y="159.37288"
        x="144.03293"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:6.3499999px;fill:#ffffff;stroke-width:0.26458332"
-         y="180.56161"
+         y="159.37288"
          x="144.03293"
          id="tspan6567"
          sodipodi:role="line">iEPICS</tspan></text>
@@ -648,155 +655,253 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="210.87833"
-       y="180.56161"
+       y="159.37288"
        id="text6573"><tspan
          sodipodi:role="line"
          id="tspan6571"
          x="210.87833"
-         y="180.56161"
+         y="159.37288"
          style="font-size:6.3499999px;fill:#ffffff;stroke-width:0.26458332">Home</tspan></text>
     <text
        id="text4771"
-       y="280.45135"
+       y="257.24466"
        x="78.196503"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="font-size:6.3499999px;fill:#ffffff;stroke-width:0.26458332"
-         y="280.45135"
+         style="font-size:6.3499999px;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+         y="257.24466"
          x="78.196503"
          id="tspan4769"
          sodipodi:role="line">Update</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="55.279339"
-       y="289.78448"
+       x="298.88016"
+       y="275.01691"
        id="text4822"><tspan
          sodipodi:role="line"
          id="tspan4820"
-         x="55.279339"
-         y="289.78448"
+         x="298.88016"
+         y="275.01691"
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 01. 11 EPICS Channel Access Client Configuration </tspan></text>
     <text
        id="text4826"
-       y="296.40176"
-       x="55.279339"
+       y="281.63419"
+       x="298.88016"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="296.40176"
-         x="55.279339"
+         y="281.63419"
+         x="298.88016"
          id="tspan4824"
          sodipodi:role="line">2018. 03. 24 Control System Studio User Widget Settings </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="55.279339"
-       y="302.82291"
+       x="298.88016"
+       y="288.05533"
        id="text4830"><tspan
          sodipodi:role="line"
          id="tspan4828"
-         x="55.279339"
-         y="302.82291"
+         x="298.88016"
+         y="288.05533"
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 05. 15 Glassfish  Configuration on the Debian  Jessie</tspan></text>
     <text
        id="text4834"
-       y="309.45975"
-       x="55.279339"
+       y="294.69217"
+       x="298.88016"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="309.45975"
-         x="55.279339"
+         y="294.69217"
+         x="298.88016"
          id="tspan4832"
          sodipodi:role="line">2018. 01. 11 EPICS Channel Access Client Configuration </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="55.279339"
-       y="316.07703"
+       x="298.88016"
+       y="301.30945"
        id="text4838"><tspan
          sodipodi:role="line"
          id="tspan4836"
-         x="55.279339"
-         y="316.07703"
+         x="298.88016"
+         y="301.30945"
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 03. 24 Control System Studio User Widget Settings </tspan></text>
     <text
        id="text4842"
-       y="322.49817"
-       x="55.279339"
+       y="307.73059"
+       x="298.88016"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="322.49817"
-         x="55.279339"
+         y="307.73059"
+         x="298.88016"
          id="tspan4840"
          sodipodi:role="line">2018. 05. 15 Glassfish  Configuration on the Debian  Jessie</tspan></text>
     <text
        id="text4859"
-       y="329.38162"
-       x="55.279339"
+       y="314.61404"
+       x="298.88016"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="329.38162"
-         x="55.279339"
+         y="314.61404"
+         x="298.88016"
          id="tspan4857"
          sodipodi:role="line">2018. 01. 11 EPICS Channel Access Client Configuration </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="55.279339"
-       y="335.9989"
+       x="298.88016"
+       y="321.23132"
        id="text4863"><tspan
          sodipodi:role="line"
          id="tspan4861"
-         x="55.279339"
-         y="335.9989"
+         x="298.88016"
+         y="321.23132"
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 03. 24 Control System Studio User Widget Settings </tspan></text>
     <text
        id="text4867"
-       y="342.42004"
-       x="55.279339"
+       y="327.65247"
+       x="298.88016"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="342.42004"
-         x="55.279339"
+         y="327.65247"
+         x="298.88016"
          id="tspan4865"
          sodipodi:role="line">2018. 05. 15 Glassfish  Configuration on the Debian  Jessie</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="55.279339"
-       y="349.05688"
+       x="298.88016"
+       y="334.28931"
        id="text4871"><tspan
          sodipodi:role="line"
          id="tspan4869"
-         x="55.279339"
-         y="349.05688"
+         x="298.88016"
+         y="334.28931"
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 01. 11 EPICS Channel Access Client Configuration </tspan></text>
     <text
        id="text4875"
-       y="355.67416"
-       x="55.279339"
+       y="340.90659"
+       x="298.88016"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-         y="355.67416"
-         x="55.279339"
+         y="340.90659"
+         x="298.88016"
          id="tspan4873"
          sodipodi:role="line">2018. 03. 24 Control System Studio User Widget Settings </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="55.279339"
-       y="362.09531"
+       x="298.88016"
+       y="347.32773"
        id="text4879"><tspan
          sodipodi:role="line"
          id="tspan4877"
-         x="55.279339"
-         y="362.09531"
+         x="298.88016"
+         y="347.32773"
          style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 05. 15 Glassfish  Configuration on the Debian  Jessie</tspan></text>
+    <text
+       id="text4793"
+       y="273.12503"
+       x="86.841698"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         y="273.12503"
+         x="86.841698"
+         id="tspan4791"
+         sodipodi:role="line">2018. 01. 11 EPICS Channel Access Client Configuration </tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.60148096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 61.423712,287.142 84.698685,271.72245"
+       id="path4795"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.16461766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 85.007168,269.6047 v 3.90983"
+       id="path4797"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.059208"
+       y="289.52109"
+       id="text4801"><tspan
+         sodipodi:role="line"
+         id="tspan4799"
+         x="27.059208"
+         y="289.52109"
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 01. 11 </tspan></text>
+    <text
+       id="text4805"
+       y="321.55643"
+       x="27.059208"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         y="321.55643"
+         x="27.059208"
+         id="tspan4803"
+         sodipodi:role="line">2018. 01. 11 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.059208"
+       y="352.83502"
+       id="text4809"><tspan
+         sodipodi:role="line"
+         id="tspan4807"
+         x="27.059208"
+         y="352.83502"
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 01. 11 </tspan></text>
+    <text
+       id="text4813"
+       y="384.6181"
+       x="27.059208"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         y="384.6181"
+         x="27.059208"
+         id="tspan4811"
+         sodipodi:role="line">2018. 01. 11 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.059208"
+       y="411.35626"
+       id="text4817"><tspan
+         sodipodi:role="line"
+         id="tspan4815"
+         x="27.059208"
+         y="411.35626"
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 01. 11 </tspan></text>
+    <text
+       id="text4821"
+       y="437.58994"
+       x="27.059208"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+         y="437.58994"
+         x="27.059208"
+         id="tspan4819"
+         sodipodi:role="line">2018. 01. 11 </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.059208"
+       y="463.82361"
+       id="text4825"><tspan
+         sodipodi:role="line"
+         id="tspan4823"
+         x="27.059208"
+         y="463.82361"
+         style="font-size:4.23333311px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.26458332">2018. 01. 11 </tspan></text>
   </g>
 </svg>
