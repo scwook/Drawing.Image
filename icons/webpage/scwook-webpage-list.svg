@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1088.2852"
-     inkscape:cy="1330.6333"
+     inkscape:cx="599.58645"
+     inkscape:cy="1580.3247"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="false"
@@ -93,39 +93,6 @@
          x="10.681109"
          y="-200.3687"
          style="fill:#ffffff;stroke-width:0.4755505">WORKS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.02933693px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12573342"
-       x="127.68962"
-       y="-200.17056"
-       id="text13170-6"><tspan
-         sodipodi:role="line"
-         id="tspan13168-2"
-         x="127.68962"
-         y="-200.17056"
-         style="fill:#ffffff;stroke-width:0.12573342">EPICS</tspan></text>
-    <text
-       id="text13233"
-       y="-200.17056"
-       x="154.14795"
-       style="font-style:normal;font-weight:normal;font-size:5.02933693px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12573342"
-       xml:space="preserve"><tspan
-         style="fill:#ffffff;stroke-width:0.12573342"
-         y="-200.17056"
-         x="154.14795"
-         id="tspan13231"
-         sodipodi:role="line">IoT</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.02933693px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.12573342"
-       x="179.85033"
-       y="-200.17056"
-       id="text13237"><tspan
-         sodipodi:role="line"
-         id="tspan13235"
-         x="179.85033"
-         y="-200.17056"
-         style="fill:#ffffff;stroke-width:0.12573342">EPICS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

@@ -285,11 +285,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-166.46694"
-     inkscape:cy="-197.74628"
+     inkscape:zoom="1"
+     inkscape:cx="684.62963"
+     inkscape:cy="-647.81243"
      inkscape:document-units="mm"
-     inkscape:current-layer="g6306"
+     inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:pagecheckerboard="true"
@@ -313,7 +313,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4108,7 +4108,7 @@
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28233323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="135.66304"
        y="759.84753"
        id="text4814"><tspan
@@ -4116,14 +4116,14 @@
          id="tspan4812"
          x="135.66304"
          y="759.84753"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:13.22916603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.26458332">STANDING ON THE SHOULDER OF GIANTS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:13.22916603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.26458332;">STANDING ON THE SHOULDER OF GIANTS</tspan></text>
     <text
        id="text4818"
        y="766.6582"
        x="153.02977"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        xml:space="preserve"><tspan
-         style="font-size:3.52777767px;fill:#000000;stroke:#000000;stroke-width:0.26458332"
+         style="font-size:3.52777767px;fill:#000000;stroke:none;stroke-width:0.26458332;"
          y="766.6582"
          x="153.02977"
          id="tspan4816"
