@@ -15,7 +15,7 @@
    version="1.1"
    id="svg12555"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="scwook-webpage-article.svg">
+   sodipodi:docname="scwook-webpage-list.svg">
   <defs
      id="defs12549" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="599.58645"
-     inkscape:cy="1580.3247"
+     inkscape:zoom="0.35"
+     inkscape:cx="258.54933"
+     inkscape:cy="1188.2874"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
